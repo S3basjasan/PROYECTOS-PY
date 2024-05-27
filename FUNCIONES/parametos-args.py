@@ -10,8 +10,9 @@ def sumar(*numeros):
     
 print(f"La suma de los numeros es: {sumar(1, 10, 1, 1, 1)}")
 
-def saludar(nombre, apellido  = "sasa"):
-    # apellido = "sa"
-    print(f"Hola {nombre} {apellido}")
+# Valor por defecto
+# def saludar(nombre, apellido  = "sasa"):
+#     # apellido = "sa"
+#     print(f"Hola {nombre} {apellido}")
 
-saludar("sebas", "1234")
+# saludar("sebas", "1234")
